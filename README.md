@@ -3,7 +3,8 @@
 A new Flutter application.
 Live demo:  https://saurabh-m-w.github.io/Real-Estate-Price-Prediction/#/
 
-https://github.com/saurabh-m-w/Real-Estate-Price-Prediction/blob/main/Screenshots/screenshot1.jpeg
+https://raw.github.com/saurabh-m-w/Real-Estate-Price-Prediction/blob/main/Screenshots/screenshot1.jpeg
+https://raw.github.com/saurabh-m-w/Real-Estate-Price-Prediction/blob/main/Screenshots/screenshot2.JPG
 
 ## Getting Started
 
