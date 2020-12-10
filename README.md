@@ -1,6 +1,9 @@
 # real_estate_price_prediction
 
 A new Flutter application.
+Live demo:  https://saurabh-m-w.github.io/Real-Estate-Price-Prediction/#/
+
+https://github.com/saurabh-m-w/Real-Estate-Price-Prediction/blob/main/Screenshots/screenshot1.jpeg
 
 ## Getting Started
 
